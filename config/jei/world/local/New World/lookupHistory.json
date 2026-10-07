@@ -1,0 +1,21 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"explorerscompass:explorerscompass"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:configurable_comb","components":"{\"productivebees:bee_type\":\"productivebees:copper\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:configurable_honeycomb","components":"{\"productivebees:bee_type\":\"productivebees:copper\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"productivebees:copper","type":"cy.jdkdigital.productivebees.common.crafting.ingredient.BeeIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":"productivebees:ashy_mining_bee","type":"cy.jdkdigital.productivebees.common.crafting.ingredient.BeeIngredient","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:iron_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:gold_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:diamond_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:emerald_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:obsidian_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ironfurnaces:netherite_furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"minecraft:slow_falling\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"apothic_attributes:levitation\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"apothic_attributes:flying\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potion","components":"{\"minecraft:potion_contents\":{potion:\"apothic_attributes:long_flying\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"torchmaster:megatorch"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ad_astra:earth_globe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturalist:duck_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

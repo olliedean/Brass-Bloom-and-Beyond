@@ -1,0 +1,35 @@
+/tp olliedean ad_astra:moon
+/tp olliedean moon
+/world moon
+/adastra planets
+/apoth spawn_boss olliedean apotheosis:overworld/bogged
+/adastra planets
+/home
+/spawn
+/apoth set_world_tier olliedean pinnacle
+/locate structure minecraft:village_plains
+/tp @s -864 ~ -368
+/carryon clear
+/carryon place olliedean
+/give olliedean minecraft:netherite_hoe
+/gamemode survival
+/gamemode creative
+/rtp
+/time set day
+/gamemode spectator
+/gamemode creative
+/locate structure deeperdarker:ancient_temple
+/locate structure minecraft:ancient_city
+/tp @s 18064 ~ -6288
+/gamemode creative
+/tp squiddlingtno
+/fly
+/back
+/god
+/rtp
+/god
+/rtp
+/gamerule playersSleepingPercentage 25
+/rtp
+/sethome
+/home
