@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "supplementaries:block/way_signs/template",
-	"textures": {
-		"particle": "supplementaries:block/way_signs/ad_astra/way_sign_strophar",
-		"sign": "supplementaries:block/way_signs/ad_astra/way_sign_strophar"
-	}
-}
