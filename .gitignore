@@ -58,3 +58,11 @@ keys.txt
 kubejs/assets/ponderjs_generated/lang/en_us.json
 TrashSlotSaveState.json
 .curseclient
+/dynamic-data-pack-cache
+/dynamic-resource-pack-cache
+emojiful/cache
+particular_cache/
+downloads/
+user-prefs.json
+minecraftinstance.json
+command_history.txt
