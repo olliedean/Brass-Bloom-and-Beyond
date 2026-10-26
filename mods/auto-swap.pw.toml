@@ -1,0 +1,13 @@
+name = "Auto Swap"
+filename = "autoswap-neoforge-1.21.1-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "644ffa69c1d051ba5c22ca8014cd0fd7110c6e5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8906371
+project-id = 1475342

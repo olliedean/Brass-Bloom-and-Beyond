@@ -1,0 +1,18 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"powah:blazing_crystal_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"allthemodium:unobtainium_allthemodium_alloy_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"allthecompressed:unobtainium_allthemodium_alloy_block_1x"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"actuallyadditions:ender_star"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pipez_optimizer:stellar_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pipez_optimizer:unobtainium_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pipez_optimizer:vibranium_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pipez_optimizer:atm_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powah:crystal_nitro"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powah:crystal_spirited"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"powah:crystal_niotic"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"allthecompressed:blaze_rod_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:jungle_door"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:blaze_rod"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bamboo_mosaic_stairs"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

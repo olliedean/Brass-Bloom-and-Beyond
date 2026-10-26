@@ -1,0 +1,13 @@
+name = "Energy Pots [Botany Pots Addon]"
+filename = "powerpots-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9d7c0acba28dd6c2d9a0289f43b76295692f9bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7129372
+project-id = 1160373

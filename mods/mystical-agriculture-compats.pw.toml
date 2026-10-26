@@ -1,0 +1,13 @@
+name = "Mystical Agriculture Compats"
+filename = "Mystical Agriculture Compats-1.21.1-1.0.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efdfc918036faadfafd3dfadd19cfadb9230efec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9053051
+project-id = 1632764
