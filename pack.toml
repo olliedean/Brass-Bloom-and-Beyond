@@ -1,12 +1,12 @@
 name = "Brass Bloom and Beyond"
 author = "olliedean"
-version = "0.2"
+version = "0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b96aa96ef4928a6a1f1112c02006be9b841b66a71ee4aad82d56e98fe7b8f01a"
+hash = "f5758551f36eab789926ea52045287f0c65fc89ca7676311c9570d4e13534732"
 
 [versions]
 minecraft = "1.21.1"
