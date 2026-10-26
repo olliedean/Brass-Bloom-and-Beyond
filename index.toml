@@ -584,7 +584,7 @@ hash = "ba1c03720d57a53b8122041a017e6780539813ec7cbb2040bdc7bcbfcf3a6882"
 
 [[files]]
 file = "config/autoswap.json"
-hash = "43e3edb5d2130a33a4f412b0d5b25b9bb4da55b9479ff8dc1a82955f20d81b87"
+hash = "50b40b69faa99e56142c77696b4825567c6447a1bbb8de024ad31d4cf0c121f1"
 
 [[files]]
 file = "config/bakery-common-1.toml.bak"
@@ -732,7 +732,7 @@ hash = "ccc1fa8609ad0682df42623818265c46c92dc7b7fe04dce19414ab29aa291a99"
 
 [[files]]
 file = "config/botanypots-mysticalagriculture/general.json"
-hash = "9074823da37e5b960d85c2d960776a084a02dd1dc2be075abb85aed60e2f4c5b"
+hash = "518582b6dc5c9f25096dece3a3b67ba8e9d724219e3cda0667c980ced1e0eb13"
 
 [[files]]
 file = "config/botanypots-mysticalagriculture/tiers/mysticalagradditions/6.json"
@@ -2143,10 +2143,6 @@ file = "kubejs/server_scripts/main.js"
 hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
 
 [[files]]
-file = "kubejs/server_scripts/powah/recipes.js"
-hash = "2c4339ecdc2e00bd2d5c40e1fdfa02a54e92d2f7c36d85e7440530e9fd2c3e2a"
-
-[[files]]
 file = "kubejs/startup_scripts/main.js"
 hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
@@ -2417,6 +2413,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "6dc9e6eb0dd13df1244bf6e7272f5648221142b65be00713f5e9dc76ea223730"
 metafile = true
 
 [[files]]
@@ -2915,6 +2916,16 @@ hash = "ff152357ebb175e8e8c58ecda4f9814d398c5668f3311b0ad6a4afcb1dc26d13"
 metafile = true
 
 [[files]]
+file = "mods/luminax.pw.toml"
+hash = "7dca27f7b07c71ceb69bd4dc4639e23abc23072c09bbae272718b952341ec344"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "da326d59e505ce18857f1b72be406a03c7b7f96e09c0953cf1fff194c7ff58cd"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "b72d3f3171eb5b38308c3960dfca5716c708f29b0ea8055a589f32528bed6db4"
 metafile = true
@@ -3332,6 +3343,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "b4839b51f328fbd3af8addab6905f444a425ffd8d540966766bbe2947528cba8"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+hash = "29d1e04030fcbdad4ee91eb9bc0b0d6b8907ffe967c9bd0543e8bb7e3dab5282"
 metafile = true
 
 [[files]]
