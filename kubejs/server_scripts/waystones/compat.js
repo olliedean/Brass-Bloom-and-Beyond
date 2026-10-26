@@ -1,0 +1,31 @@
+ServerEvents.tags('block', (event) => {
+  const whitelist = 'ftbchunks:interact_whitelist'
+
+  event.add(whitelist, 'waystones:waystone')
+  event.add(whitelist, 'waystones:mossy_waystone')
+  event.add(whitelist, 'waystones:sandy_waystone')
+  event.add(whitelist, 'waystones:deepslate_waystone')
+  event.add(whitelist, 'waystones:blackstone_waystone')
+  event.add(whitelist, 'waystones:end_waystone')
+
+  event.add(whitelist, 'waystones:sharestone')
+  event.add(whitelist, 'waystones:black_sharestone')
+  event.add(whitelist, 'waystones:blue_sharestone')
+  event.add(whitelist, 'waystones:brown_sharestone')
+  event.add(whitelist, 'waystones:cyan_sharestone')
+  event.add(whitelist, 'waystones:gray_sharestone')
+  event.add(whitelist, 'waystones:green_sharestone')
+  event.add(whitelist, 'waystones:light_blue_sharestone')
+  event.add(whitelist, 'waystones:light_gray_sharestone')
+  event.add(whitelist, 'waystones:lime_sharestone')
+  event.add(whitelist, 'waystones:magenta_sharestone')
+  event.add(whitelist, 'waystones:orange_sharestone')
+  event.add(whitelist, 'waystones:pink_sharestone')
+  event.add(whitelist, 'waystones:purple_sharestone')
+  event.add(whitelist, 'waystones:red_sharestone')
+  event.add(whitelist, 'waystones:white_sharestone')
+  event.add(whitelist, 'waystones:yellow_sharestone')
+
+  event.add(whitelist, 'waystones:warp_plate')
+  event.add(whitelist, 'waystones:portstone')
+})
