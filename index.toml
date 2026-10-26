@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "4fd3fe42f3846a399c8f55ad321d465fae6e04bd761915026defa772d24d6351"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
 metafile = true
@@ -2366,7 +2370,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "144d4bd742122408670a1453c889191a15cb4a7912956dbe8db6518fe1a26b2f"
+hash = "7d885274400fb6f59e64b9fdabf05d2efc4a608427b26da6c2c45190321589d3"
 metafile = true
 
 [[files]]
@@ -2561,7 +2565,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "ea10cab55df1871fa566aa64329fef98a1b68c8966d72d6c716c57c394e67bab"
+hash = "a37dc502c28a7749d3fe81265978c9085023195470260cbd635aff1b540d5b2a"
 metafile = true
 
 [[files]]
@@ -2586,7 +2590,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5217d19d5e1dae955325bae63afbd9c66ba930e18fbddb66e217c6b807480f22"
+hash = "0a5ade10e9b270da0cb791c4675e350042c23b4fe01a6ddc1ddebcbf356ed86d"
 metafile = true
 
 [[files]]
@@ -2751,7 +2755,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "763ed0c115b2b9a1e37e38cb153748c9c3f3c31869fd3d56acfaad54c63e78af"
+hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
 
 [[files]]
@@ -3281,12 +3285,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1f879739b8ea01784133a004b34d8895c0f18a737501b4d3546bf33673384707"
+hash = "d9e194196e8097ee42b09c5b383977ee28abe4a087c8bdeb11eaea5edee3a04b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "617ec6e9893d59905035a510fe336addd46a97b6fd28fad88b70713ebf8e69e3"
+hash = "3fc6fd4a464740bd6cfe89571517cfda837dbad69f0218ef1159b527b1be45d6"
 metafile = true
 
 [[files]]
